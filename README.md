@@ -1,7 +1,7 @@
 # Método Gauss Jordan em python
 
 Código em python do método de Gauss Jordan para a 
-matéria dreae programação linear do IPRJ ( Instituto Politécnico do Rio de Janeiro )
+matéria de programação linear do IPRJ ( Instituto Politécnico do Rio de Janeiro )
 
 ## Uso
 
